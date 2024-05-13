@@ -1,5 +1,5 @@
 
-import { Facebook, FacebookRounded, Instagram, YouTube } from '@mui/icons-material';
+import { FacebookRounded, Instagram, YouTube } from '@mui/icons-material';
 import './footer.styles.css';
 
 const treatmentsList = ['Laser Dentistery', 'Dental fillings', 'Root canal Treatment', 'Wisdom Teeth removal', 'Braces & Aligners', 'Clear Aligners', 'Dental Implants',]

@@ -1,5 +1,4 @@
 
-import { KeyboardArrowDown } from '@mui/icons-material';
 import NavList from './nav-list.component';
 import './navigation.styles.css';
 
