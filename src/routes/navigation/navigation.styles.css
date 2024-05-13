@@ -1,0 +1,79 @@
+.nav-container {
+    background: #FFF1E6;
+}
+
+.nav-bar {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-heading {
+    color: #E9811F;
+    text-transform: lowercase;
+    font-weight: 400;
+    font-size: 50px;
+    margin: 0;
+    font-family: "Roboto Serif", serif;
+    display: flex;
+    align-items: center;
+}
+.logo-heading .icon{
+    font-family: "Roboto Slab", serif;
+    color: #4D2C19;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.logo-text {
+    color: #4D2C19;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 5px;
+}
+.list-container{
+    display: flex;
+    align-items: center;
+}
+.list-item{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    color: #464646;
+}
+.book-appointment-text{
+    background: #F8943F;
+    border: 1px solid #DE6F0D;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+
+}
+.book-appointment-text p{
+    margin: 0;
+    font-weight: 500;
+}
+.help-text{
+    background: #FFEFE2;
+    border: 1px solid #FBBE9C;
+    color: #4D2C19;
+    padding: 10px 20px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+
+}
+.help-text p{
+    margin: 0;
+    font-weight: 500;
+}

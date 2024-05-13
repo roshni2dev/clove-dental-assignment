@@ -1,0 +1,118 @@
+.safety-protocols-section {
+    margin: 50px 0px;
+}
+
+.form-section {
+    background: #FFF9F4;
+    border-radius: 30px;
+    padding: 30px 60px;
+}
+
+.form-section .heading {
+    color: #303030;
+    font-weight: 400;
+}
+
+.form-section p {
+    color: #474747;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.form input {
+    border-radius: 100px;
+    width: calc(100% - 30px);
+    padding: 10px;
+    border-color: #B0B0B0;
+    margin: 10px 0;
+}
+
+.form button {
+    background: #F8943F;
+    border: 1px solid #DE6F0D;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 100px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.safety-protocols-section .alignment {
+    display: flex;
+    align-items: center;
+}
+
+.safety-protocols-section .safety-text-container {
+    background: #FBF5FF;
+    border-radius: 30px;
+    padding: 30px 20px 0px 20px;
+    margin-left: 40px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.safety-protocols-section img{
+    width: 270px;
+}
+
+.safety-text-container .heading {
+    color: #303030;
+    font-weight: 400;
+}
+
+.safety-text-container p {
+    color: #474747;
+    font-weight: 300;
+    margin-top: 20px;
+}
+.safety-text-container .learn-more-button{
+    color: #4D2C19;
+    display: flex;
+    align-items: center;
+    text-decoration: underline;
+}
+.second-section{
+    display: flex;
+    align-items: flex-start;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.section-1{
+    background-color: #F5F8FF;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 40px;
+    border-radius: 30px;
+    height: 150px;
+    justify-content: center;
+
+}
+.section-2{
+    background-color: #E1F2EE;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 30px;
+    height: 150px;
+    justify-content: center;
+}
+.sub-heading{
+    color: #303030;
+    font-weight: 400;
+    font-size: 25px;
+}
+.section-1 .learn-more-button{
+    display: flex;
+    align-items: center;
+}
+.section-2 .learn-more-button{
+    display: flex;
+    align-items: center;
+}

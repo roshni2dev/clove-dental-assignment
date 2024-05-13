@@ -1,0 +1,29 @@
+.header-background{
+    background-color: #B5C1A6;
+}
+.header{
+    padding: 0 20px;
+    /* height: 300px; */
+    display: flex;
+    align-items: center;
+
+}
+.text-container .heading{
+    color: #303030;
+    font-size: 55px;
+    font-weight: 400;
+}
+.text-container .text{
+  font-size: 30px;
+  margin: 20px 0px;
+  color: #525252;
+  font-weight: 400;
+}
+.text-container .button{
+    background: #F8943F;
+    border: 1px solid #DE6F0D;
+    color: #fff;
+    padding: 10px 120px;
+    border-radius: 100px;
+   display: -webkit-inline-box;
+  }
